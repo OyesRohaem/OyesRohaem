@@ -1,3 +1,17 @@
+## Hi there 👋
+
+I'm OyesRohaem, a developer passionate about creating educational technology solutions.
+
+### 🔭 Currently working on:
+- 🏫 **School Management System** - A comprehensive elementary school management system built with Python Flask
+
+### 🌱 Currently learning:
+- Advanced Python web development
+- Database optimization
+- Educational technology solutions
+
+---
+
 # 🏫 نظام إدارة المدرسة الابتدائية
 
 نظام شامل لإدارة المدارس الابتدائية مطور بلغة Python باستخدام إطار العمل Flask.
